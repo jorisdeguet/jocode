@@ -10,15 +10,20 @@ Tu as plus de 10 ans, tu sais lire et compter, on essaie ensemble d'apprendre à
 
 On commence tout de suite avec des très courtes videos sur les fondamentaux, on fait vite quelque exercice qui sont fournis avec une video de correction.
 
+On a aussi un guide rapide pour [l'installation](installation).
+
+Pour tester ton installation, on va faire [le bonjour au monde](fondamentaux/bonjour)
 
 # Les fondamentaux
 
 On peut commencer par les fondamentaux
 
-[expression](expression)
-[variable](variable)
-[type](type)
-[fonction](fonction)
+[expression](fondamentaux/expression)
+[variable](fondamentaux/variable)
+[type](fondamentaux/type)
+[fonction](fondamentaux/fonction)
+
+[débogueur](fondamentaux/debogueur)
 
 # Projets
 
