@@ -1,16 +1,14 @@
-# Bonjour à tous
+---
+title: Boucles, itérations, répétitions quoi
+---
 
-Moi c'est Jo. J'enseigne à programmer depuis plus de 10 ans. Jocode c'est ma tentative pour accompagner ceux qui souhaitent
- apprendre par la pratique.
+La plupart du temps, quand on programme, on gère plus qu'un truc, du coup on veut donner les instructions plusieurs fois.
 
-Tu as plus de 10 ans, tu sais lire et compter, on essaie ensemble d'apprendre à programmer en Python
+Pour ça on a les boucles.
 
+Chaque fois qu'on passe dans une boucle, on appelle ça une itération.
 
-# Comment ça marche?
-
-On commence tout de suite avec des très courtes videos sur les fondamentaux, on fait vite quelque exercice qui sont fournis avec une video de correction.
+# Exemples
 
 
-# Les fondamentaux 
-
-[expression](expression) [variable](variable) [type](type) [fonction](fonction)
+# Exercices
