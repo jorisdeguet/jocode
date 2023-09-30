@@ -1,7 +1,4 @@
----
-layout: post
-title: Jocode apprendre à coder en Python avec Jo
----
+
 
 # Bonjour à tous
 
@@ -25,6 +22,29 @@ On peut commencer par les fondamentaux
 [type](type)
 [fonction](fonction)
 
+# Projets
+
+On peut aussi commencer avec un projet en tête. Pour chaque projet, on aura :
+- des liens vers les fondamentaux nécessaires
+- l'objectif
+- des videos de la solution pour aider étape par étape
+
+
+
+## Le générateur de fichiers Word (facile, librairie)
+
+## Le robot qui aspire l'internet
+
+## 
+
 # Motivation et méthode de travail
 
-[motivation](motivation) 
+Programmer c'est souvent une source de frustration importante. Voici quelques réflexes qui m'ont aidé:
+[motivation](motivation)
+
+Au delà du code produits, quelques habitudes qui font que la vie est belle quand on code
+[methode](methode)
+
+
+[complexite](complexite)
+
