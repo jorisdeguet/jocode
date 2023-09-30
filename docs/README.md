@@ -1,3 +1,8 @@
+---
+layout: post
+title: Jocode apprendre à coder en Python avec Jo
+---
+
 # Bonjour à tous
 
 Moi c'est Jo. J'enseigne à programmer depuis plus de 10 ans. Jocode c'est ma tentative pour accompagner ceux qui souhaitent
