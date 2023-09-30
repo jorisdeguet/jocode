@@ -1,4 +1,6 @@
-
+---
+title: Jocode ... apprendre à coder en Python avec Jo
+---
 
 # Bonjour à tous
 
