@@ -29,16 +29,23 @@ On peut commencer par les fondamentaux ... mais pas obligé
 
 # Projets
 
-<details>
-  <summary>Débutant</summary>
+[//]: # (<details>)
 
-### Gna
-1. Foo
-2. Bar
-    * Baz
-    * Qux
+[//]: # (  <summary>Débutant</summary>)
 
-</details>
+[//]: # ()
+[//]: # (### Gna)
+
+[//]: # (1. Foo)
+
+[//]: # (2. Bar)
+
+[//]: # (    * Baz)
+
+[//]: # (    * Qux)
+
+[//]: # ()
+[//]: # (</details>)
 
 
 On peut aussi commencer avec un projet en tête. Pour chaque projet, on aura :

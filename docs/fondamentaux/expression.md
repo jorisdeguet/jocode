@@ -1,9 +1,15 @@
 # Bonjour à tous
 
-Moi c'est Jo. J'enseigne à programmer depuis plus de 10 ans. Jocode c'est ma tentative pour accompagner ceux qui souhaitent
- apprendre par la pratique.
+Une expression c'est un bout de texte qui a un type et une valeur.
 
-Tu as plus de 10 ans, tu sais lire et compter, on essaie ensemble d'apprendre à programmer en Python
+Les expressions les plus simples, on les appelle des litéraux
+- **5** est un litéral qui vaut 5, c'est un nombre (son type)
+- **"coucou"** est un litéral qui vaut le texte "coucou" est de
+
+Avec des opérations
+- **5 + 3** est une expression, elle vaut 8, son type est nombre entier
+- **"coucou " + "le monde"** aussi une expression, de type texte et qui vaut "coucou le monde"
+
 
 
 # Comment ça marche?

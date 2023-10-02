@@ -1,1 +1,30 @@
-gems: [jekyll-mermaid]
+title: Jocode
+description: Apprendre à coder en Python avec J
+github_username: jorisdeguet
+github_repo: "jocode"
+
+# url: "https://rednafi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Everything below here should be left alone. Modifications may break fastpages
+future: true
+#theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-octicons
+  - jekyll-toc
+  - jekyll-twitter-plugin
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+#remote_theme: jekyll/minima
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+
+highlighter: rouge
+markdown: GFM
