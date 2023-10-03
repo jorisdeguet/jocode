@@ -29,39 +29,74 @@ On peut commencer par les fondamentaux ... mais pas obligé
 
 # Projets
 
-[//]: # (<details>)
-
-[//]: # (  <summary>Débutant</summary>)
-
-[//]: # ()
-[//]: # (### Gna)
-
-[//]: # (1. Foo)
-
-[//]: # (2. Bar)
-
-[//]: # (    * Baz)
-
-[//]: # (    * Qux)
-
-[//]: # ()
-[//]: # (</details>)
-
-
 On peut aussi commencer avec un projet en tête. Pour chaque projet, on aura :
 - des liens vers les fondamentaux nécessaires
 - l'objectif
 - des videos de la solution pour aider étape par étape
 
+<details>
+  <summary>Débutant</summary>
+
+## Projet débutant 1
+1. Foo
+2. Bar
+    * Baz
+    * Qux
+
+## Projet débutant 2
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+<details>
+  <summary>Facile</summary>
+
+## Projet facile 1
+
+**Compétences utiles : [fondamentaux/variable](variable) [expression](fondamentaux/expression)**
+
+1. Foo
+2. Bar
+    * Baz
+    * Qux
+
+## Projet facile 2
+
+**Compétences utiles : []**
+
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+<details>
+  <summary>Intermédiaire</summary>
+
+
 ## La racine de 2 quand on a un de la puissance de calcul mais rien d'autre
 
 ##
+
+
+## Projet intermédiaire 1
+
+**Compétences utiles : []**
+
 
 ## Le générateur de fichiers Word (facile, librairies)
 
 Un programme qui lit un fichier Excel avec des infos et produit tout plein de fichiers Word en fonction.
 
 [ExcelOWord](projets/exceloword)
+
+
+## Projet intermédiaire 2
+
 
 ## Le robot qui aspire l'internet (intermédiaire. librairies)
 
@@ -71,7 +106,37 @@ En bonus il peut extraire les courriels ou encore écrire des fichiers sur le di
 
 [Botbot](projets/botbot)
 
+**Compétences utiles : []**
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+
+<details>
+  <summary>Avancé</summary>
+
+## Projet avancé 1
+
+
+
 ## Un wack A Molee (avancé, interface graphique)
+
+**Compétences utiles : []**
+
+## Projet avancé 2
+
+**Compétences utiles : []**
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+
 
 # Motivation et méthode de travail
 

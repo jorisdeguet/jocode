@@ -2,6 +2,10 @@
 title: Installation pour développer en Python
 ---
 
+[//]: # (TODO VIDEO INSTALLATION WINDOWS 10)
+
+[//]: # (TODO VIDEO INSTALLATION MACOS)
+
 Avant de commencer, il faut s'assurer qu'on pourra écrire des fichiers python et les exécuter.
 
 Pour ça, on a besoin de 3 choses:

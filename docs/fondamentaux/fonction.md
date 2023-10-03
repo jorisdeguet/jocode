@@ -1,16 +1,30 @@
 # Bonjour à tous
 
-Moi c'est Jo. J'enseigne à programmer depuis plus de 10 ans. Jocode c'est ma tentative pour accompagner ceux qui souhaitent
- apprendre par la pratique.
+Une fonction sert principalement à 3 choses, parfois ensemble, parfois séparément:
+- éviter de répéter du code
+- donner un nom à un bout de code
+- découper un problème en sous-problèmes
 
-Tu as plus de 10 ans, tu sais lire et compter, on essaie ensemble d'apprendre à programmer en Python
+Mais principalement, le but est de rendre le code lisible pour son auteur.
+
+Donc quand tu trouves que ton code commence à être difficile à comprendre,
+c'est sans doute le moment de créer des fonctions.
+
+# Un première fonction
+
+Exemple de base:
+
+# Ce qui rentre, ce qui sort
+
+On peut alors faire une fonction qui renvoie plusieurs éléments en renvoyant un 
+
+# Exercices
 
 
-# Comment ça marche?
+## Découper du code en fonctions (débutant)
 
-On commence tout de suite avec des très courtes videos sur les fondamentaux, on fait vite quelque exercice qui sont fournis avec une video de correction.
+## Une fonction qui calcule le min, le max, la moyenne et l'écart type (intermédiaire)
+
+On souhaite définir une ou deux fonctions pour calculer le min, le max, la moyenne et l'écart type d'une liste de nombres.
 
 
-# Les fondamentaux 
-
-[expression](expression) [variable](variable) [type](type) [fonction](fonction)
