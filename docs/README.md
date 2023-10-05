@@ -67,11 +67,10 @@ On peut aussi commencer avec un projet en tête. Pour chaque projet, on aura :
 
 **Compétences utiles : []**
 
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+Calculer tous les anagrammes de mon nom.
+
+
+
 </details>
 
 <details>

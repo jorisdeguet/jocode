@@ -8,6 +8,12 @@ Il est poli cet ordinateur.
 
 # Le "Bonjour le monde" classique
 
+On va demander à PyCharm de nous créer un projet et il va normalement nous créer un fichier.
+
+On va l'exécuter en cliquant droit sur le fichier qui finit en **.py** et en cliquant sur **Debug**
+
+On regarde le code et on se dit "La programmation ce n'est clairement pas pour moi, je comprends rien à ce code là".
+
 ```python
 
 
@@ -16,6 +22,10 @@ Il est poli cet ordinateur.
 
 
 # La version 3ème millénaire
+
+Nous allons utiliser une librairie de Google pour faire parler l'ordinateur. 
+
+Pour plus d'info sur les librairies et leur fonctionnement voir [les librairies](librairie)
 
 ```python
 
