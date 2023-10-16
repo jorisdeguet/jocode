@@ -62,6 +62,10 @@ Le mot le plus long
   ```
 </details>
 
+Écrire son nom avec turtle
+Afficher les diviseurs d’un nombre
+Télécharger une page html
+
 <details>
   <summary>Facile</summary>
 

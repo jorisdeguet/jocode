@@ -16,10 +16,12 @@ On regarde le code et on se dit "La programmation ce n'est clairement pas pour m
 
 ```python
 
-
+print("salut cher programmeur")
 
 ```
 
+C'est en anglais. Une très grande majorité de la programmation s'est fait en anglais. Du coup, la plupart des 
+langages de programmation utilisent des mots anglais.
 
 # La version 3ème millénaire
 
