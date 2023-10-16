@@ -8,7 +8,24 @@ Comment on associe une valeur à une variable : l'assignation ou l'affectation
 
 Je peux l'appeler comme je veux? Nope Syntaxe de Python
 
-# Qu'est-ce qui varie?
+## Assignation
+
+**Ce qui va dans la variable c'est la valeur, pas l'expression**
+
+Si on a fait des maths, que votre prof vous dit que 
+- *x* vaut 5
+- *y* est le double de *x*
+- si maintenant *x* vaut 10, maintenant combien vaut *y*?
+
+```python
+x = 5
+y = 2 * x
+x = 10
+print(y)
+```
+
+
+## Qu'est-ce qui varie?
 
 IL EST TRES IMPORTANT DE METTRE TOUJOURS LE MEME TYPE DANS UNE VARIABLE
 

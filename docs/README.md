@@ -18,7 +18,7 @@ Pour tester ton installation, on va faire [le bonjour au monde](fondamentaux/bon
 
 On peut commencer par les fondamentaux ... mais pas obligé 
 
-[expression](fondamentaux/expression)
+[expression](fondamentaux/expression) : 
 [variable](fondamentaux/variable)
 [type](fondamentaux/type)
 [fonction](fondamentaux/fonction)
@@ -34,14 +34,23 @@ On peut aussi commencer avec un projet en tête. Pour chaque projet, on aura :
 - l'objectif
 - des videos de la solution pour aider étape par étape
 
+Il y a un peu de tout:
+- des projets sur des fichiers Excel, Word bref des trucs de bureau
+- des projets sur la gestion de dossiers / fichiers
+- des projets sur des données, des sciences
+- des projets de communication, courriels, envoi de textos etc.
+
 <details>
   <summary>Débutant</summary>
 
-## Projet débutant 1
-1. Foo
-2. Bar
-    * Baz
-    * Qux
+## Projet débutant : anagrammes de mon nom
+
+Trouver tous les anagrammes de mon prénom
+
+On va programmer un petit programme qui récupère une liste de tous les mots dans une langue
+et trouver tous les mots qui ont les mêmes lettres que notre nom.
+
+Ça fera un sujet de conversation au souper.
 
 ## Projet débutant 2
   ```js
@@ -54,7 +63,7 @@ On peut aussi commencer avec un projet en tête. Pour chaque projet, on aura :
 <details>
   <summary>Facile</summary>
 
-## Projet facile 1
+## Projet facile : Créer du fichier Excel
 
 **Compétences utiles : [fondamentaux/variable](variable) [expression](fondamentaux/expression)**
 
