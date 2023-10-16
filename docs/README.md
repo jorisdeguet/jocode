@@ -43,7 +43,7 @@ Il y a un peu de tout:
 <details>
   <summary>Débutant</summary>
 
-## Projet débutant : anagrammes de mon nom
+## Projet débutant : anagrammes de mon nom Le mot le plus long
 
 Trouver tous les anagrammes de mon prénom
 
@@ -51,6 +51,8 @@ On va programmer un petit programme qui récupère une liste de tous les mots da
 et trouver tous les mots qui ont les mêmes lettres que notre nom.
 
 Ça fera un sujet de conversation au souper.
+
+Le mot le plus long
 
 ## Projet débutant 2
   ```js
@@ -94,6 +96,17 @@ Calculer tous les anagrammes de mon nom.
 ## Projet intermédiaire 1
 
 **Compétences utiles : []**
+
+
+
+## Projet : le compte est bon
+
+Étant donné un tirage de nombre entier et une cible entre 100 et 999, 
+trouver une expression combinant les opérateurs + - * / qui utilise chaque
+nombre une seule fois donnant le résultat
+
+**Compétences utiles : boucle, algorithmique**
+
 
 
 ## Le générateur de fichiers Word (facile, librairies)
